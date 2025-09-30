@@ -1,0 +1,8 @@
+Expected Results:
+
+- Scalar subquery → returns oldest student(s).
+- IN subquery → lists students who have enrollments.
+- EXISTS → finds students who were absent at least once.
+- Correlated subquery → compares each student’s age with others.
+- Subquery in FROM → derived table for counting enrollments.
+- Nested subquery → finds students in a specific course.
